@@ -24,7 +24,7 @@ fname_train = r"train.tsv"
 
 fname_test = r"test_noy.tsv"
 
-batch_size = 100000
+batch_size = 1
 
 def load_data(fname):
 	X_load_data = []
