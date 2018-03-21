@@ -52,7 +52,7 @@ if __name__ == "__main__":
 	X_raw = []
 	y = []
 	X_raw, y = load_data(fname_train)
-	print("Train data loaded")
+	#print("Train data loaded")
 	#print(X_raw[0])
 	#print(y[0])
 		
